@@ -18,7 +18,7 @@ class BankController extends Controller
             echo "<br/>";
             echo "Fecha: ".substr($line, 165,8);
             echo "<br/>";
-            echo "********************";
+            echo "**********************";
             echo "<br>";
         }
     }
